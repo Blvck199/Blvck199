@@ -9,7 +9,7 @@
 - <b>Python</b>
   - [Automated Invoice Processing System](https://github.com/Blvck199/DATAEXTRACTS)
 
-<h2> 🤳 Certifications</h2>
+<h2>  📄 Certifications</h2>
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/8XBKRLGBDM3E)
 - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/GFHYJT4JA6FR)
