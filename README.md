@@ -2,7 +2,13 @@
   <img src="https://user-images.githubusercontent.com/59398782/135726097-3fa32eb1-cbd5-4992-b89d-bfa17083919e.gif" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Macpius!</h1>
+<h1 align="center"><b>Hi, I'm Macpius!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bilingual+DevOps+Engineer...;Automation+and+Cloud+Enthusiast...;Cybersecurity+Professional...;Python,+SOC+Tools,+DevOps+Tools">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Blvck199">
@@ -12,20 +18,6 @@
     <img src="https://img.shields.io/badge/Cybersecurity_Professional-blue?style=for-the-badge&logo=linkedin" alt="Cybersecurity Professional Badge">
   </a>
 </p>
-
-<p align="center">
-  <em>Bilingual DevOps Engineer with 3+ years of experience in designing and implementing secure, high-availability systems. Skilled in Cloud, Automation, and Cybersecurity.</em>
-</p>
-
----
-
-<h2 align="center">💻 Technical Projects</h2>
-
-<ul>
-  <li><a href="https://github.com/Blvck199/DATAEXTRACTS"><strong>Automated Invoice Processing System</strong></a> - Developed a Python solution to automate invoice data extraction, connect it to SQL databases, and upload to financial data pages. This project improved processing speed and accuracy, streamlining financial operations significantly.</li>
-  <li><a href="https://github.com/Blvck199/Powershell/"><strong>PowerShell - JWipe (Disk Wiping Utility)</strong></a> - Created a PowerShell-based disk wiping utility for secure data deletion, ensuring compliance with data protection regulations.</li>
-  <li><a href="https://github.com/joshmadakor1/Algorithms-Practice"><strong>Data Structures & Algorithms Practice</strong></a> - Practice repository for data structures and algorithms, focusing on problem-solving and code optimization.</li>
-</ul>
 
 ---
 
@@ -56,17 +48,43 @@
 
 ---
 
-<h2 align="center">🛠️ Professional Experience</h2>
+<h2 align="center">💻 Technical Projects</h2>
 
-### SOC Analyst - Amborg Global Resources | Remote (July 2021 – June 2024)
-- Developed proactive **threat hunting** methods using ELK Stack and AlienVault.
-- Led phishing analysis using **Sentinel and Microsoft Defender**.
-- Enhanced cloud infrastructure with **AWS CloudFormation** and Terraform.
+<ul>
+  <li><a href="https://github.com/Blvck199/DATAEXTRACTS"><strong>Automated Invoice Processing System</strong></a> - Developed a Python solution to automate invoice data extraction, connect it to SQL databases, and upload to financial data pages. This project improved processing speed and accuracy, streamlining financial operations significantly.</li>
+  <li><a href="https://github.com/Blvck199/Powershell/"><strong>PowerShell - JWipe (Disk Wiping Utility)</strong></a> - Created a PowerShell-based disk wiping utility for secure data deletion, ensuring compliance with data protection regulations.</li>
+  <li><a href="https://github.com/joshmadakor1/Algorithms-Practice"><strong>Data Structures & Algorithms Practice</strong></a> - Practice repository for data structures and algorithms, focusing on problem-solving and code optimization.</li>
+</ul>
 
-### Automation Specialist - Hitek Logistics | Montreal (Feb 2023 - Nov 2023)
-- Automated invoice processing using **Python** and OCR.
-- Integrated automation into **CI/CD pipelines** with Jenkins and Docker.
-- Optimized workflows with cloud-based solutions on AWS.
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
+<p align="center">
+
+- **Languages**:
+  
+    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Bash](https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<br>   
+  
+- **DevOps Tools**:
+  
+    ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+<br>
+  
+- **SOC Tools**:
+
+   ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+   ![QRadar](https://img.shields.io/badge/QRadar-%230073ff.svg?style=for-the-badge&logo=ibm&logoColor=white)
+   ![Wireshark](https://img.shields.io/badge/Wireshark-%230167a3.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</p>
 
 ---
 
@@ -76,6 +94,15 @@
   <strong>Master of Engineering in Mechanical Engineering</strong> - Concordia University, 2022<br>
   <strong>Bachelor of Science in Mechanical Engineering</strong> - Eastern Mediterranean University, 2018
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blvck199&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blvck199&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+</div>
 
 ---
 
