@@ -4,6 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>PowerShell</b>
+  - [JWipe (Disk Wiping Utility)](https://github.com/Blvck199/Powershell/)
 - <b>Python</b>
   - [Automated Invoice Processing System](https://github.com/Blvck199/DATAEXTRACTS)
 
