@@ -1,47 +1,100 @@
-<h1>Hi, I'm Macpius! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59398782/135726097-3fa32eb1-cbd5-4992-b89d-bfa17083919e.gif" width="100%">
+</p>
 
-<h2>👨‍💻 Cybersecurity and Software Development Projects:</h2>
+<h1 align="center">Hi, I'm Macpius!</h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/Blvck199/Powershell/)
-- <b>Python</b>
-  - [Automated Invoice Processing System](https://github.com/Blvck199/DATAEXTRACTS)
+<p align="center">
+  <a href="https://github.com/Blvck199">
+    <img src="https://img.shields.io/badge/Programmer-blue?style=for-the-badge&logo=github" alt="Programmer Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/macpiusegelege/">
+    <img src="https://img.shields.io/badge/Cybersecurity_Professional-blue?style=for-the-badge&logo=linkedin" alt="Cybersecurity Professional Badge">
+  </a>
+</p>
 
-<h2>  📄 Certifications</h2>
+<p align="center">
+  <em>Bilingual DevOps Engineer with 3+ years of experience in designing and implementing secure, high-availability systems. Skilled in Cloud, Automation, and Cybersecurity.</em>
+</p>
 
-- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/8XBKRLGBDM3E)
-- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/GFHYJT4JA6FR)
-- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/DMYUQDRUY8KP)
-- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/6ZXJN62FJM2U)
-- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/H5NTXJWHRCBJ)
-- [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/HRLD42DNDRZT)
-- [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/4HSZ5EPJDVV2)
-- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/XE4BWA9HQLU6)
+---
 
-<h2> 🤳 Connect with me:</h2>
+<h2 align="center">💻 Technical Projects</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<ul>
+  <li><a href="https://github.com/Blvck199/DATAEXTRACTS"><strong>Automated Invoice Processing System</strong></a> - Developed a Python solution to automate invoice data extraction, connect it to SQL databases, and upload to financial data pages. This project improved processing speed and accuracy, streamlining financial operations significantly.</li>
+  <li><a href="https://github.com/Blvck199/Powershell/"><strong>PowerShell - JWipe (Disk Wiping Utility)</strong></a> - Created a PowerShell-based disk wiping utility for secure data deletion, ensuring compliance with data protection regulations.</li>
+  <li><a href="https://github.com/joshmadakor1/Algorithms-Practice"><strong>Data Structures & Algorithms Practice</strong></a> - Practice repository for data structures and algorithms, focusing on problem-solving and code optimization.</li>
+</ul>
 
-[twitter]: https://x.com/lilcrucifix
-[instagram]: https://www.instagram.com/_el_tio_1/
-[linkedin]: www.linkedin.com/in/macpiusegelege
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📄 Certifications</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/8XBKRLGBDM3E">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-blue?style=for-the-badge&logo=google">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/GFHYJT4JA6FR">
+    <img src="https://img.shields.io/badge/Foundations_of_Cybersecurity-blue?style=for-the-badge&logo=coursera">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/DMYUQDRUY8KP">
+    <img src="https://img.shields.io/badge/Automate_Cybersecurity_Tasks_with_Python-blue?style=for-the-badge&logo=python">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/verify/6ZXJN62FJM2U">
+    <img src="https://img.shields.io/badge/Play_It_Safe:_Manage_Security_Risks-blue?style=for-the-badge&logo=linux">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/H5NTXJWHRCBJ">
+    <img src="https://img.shields.io/badge/Assets_Threats_and_Vulnerabilities-blue?style=for-the-badge&logo=cybersecurity">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/HRLD42DNDRZT">
+    <img src="https://img.shields.io/badge/Tools_of_the_Trade:_Linux_and_SQL-blue?style=for-the-badge&logo=sql">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+<h2 align="center">🛠️ Professional Experience</h2>
+
+### SOC Analyst - Amborg Global Resources | Remote (July 2021 – June 2024)
+- Developed proactive **threat hunting** methods using ELK Stack and AlienVault.
+- Led phishing analysis using **Sentinel and Microsoft Defender**.
+- Enhanced cloud infrastructure with **AWS CloudFormation** and Terraform.
+
+### Automation Specialist - Hitek Logistics | Montreal (Feb 2023 - Nov 2023)
+- Automated invoice processing using **Python** and OCR.
+- Integrated automation into **CI/CD pipelines** with Jenkins and Docker.
+- Optimized workflows with cloud-based solutions on AWS.
+
+---
+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+  <strong>Master of Engineering in Mechanical Engineering</strong> - Concordia University, 2022<br>
+  <strong>Bachelor of Science in Mechanical Engineering</strong> - Eastern Mediterranean University, 2018
+</p>
+
+---
+
+<h2 align="center">🤳 Connect with me</h2>
+
+<p align="center">
+  <a href="https://x.com/lilcrucifix">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/macpiusegelege">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/_el_tio_1/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59398782/135726131-760a29a3-934a-4c29-b758-f319cfbcf55e.gif" width="100%">
+</p>
