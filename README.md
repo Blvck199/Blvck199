@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Blvck199">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Automation+Specialist;Cybersecurity+Professional;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Cloud+Automation+Specialist;Cybersecurity+Professional;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG">
   </a>
 </p>
 
